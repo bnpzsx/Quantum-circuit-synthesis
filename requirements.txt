@@ -1,6 +1,2 @@
-paddlepaddle
-paddlehub
-visualdl
-paddleseg
-paddlenlp
-paddleocr
+paddlepaddle>=2.0.2
+paddle-quantum>=2.0.1
