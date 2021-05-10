@@ -1,4 +1,4 @@
-# AI Studio项目迁移模板
+# 量子电路合成
 
 ![GitHub forks](https://img.shields.io/github/forks/GT-ZhangAcer/AI-Studio-Template?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/GT-ZhangAcer/AI-Studio-Template?style=for-the-badge) 
 
